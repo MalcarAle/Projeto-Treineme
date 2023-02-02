@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Card de visita, apenas para estudo de alinhamento e posições
 
-- [Acesse o projeto finalizado, online](https://malcarale.github.io/Flutuar/)
+- [Acesse o projeto finalizado, online](https://malcarale.github.io/Projeto-Treineme/)
 
 ## 🔖 Layout
 
